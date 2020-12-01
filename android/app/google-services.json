@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:623120150147:android:0e7f3ca8c9abeef9e5f5b6",
+        "mobilesdk_app_id": "1:623120150147:android:68ffc543c5502c29e5f5b6",
         "android_client_info": {
-          "package_name": "com.example.loja_virtual"
+          "package_name": "com.example.loja_virtual.loja_virtual"
         }
       },
       "oauth_client": [
